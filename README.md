@@ -15,6 +15,7 @@ database, authentication, admin panel, frontend and hosting.
 | 🍽️ | **[Dunai — restaurant menu + bot](https://github.com/kyrylo157/dunai-menu)** · [live](https://dunai-menu.dynai-reni.workers.dev) | Online menu for a real restaurant (211 dishes) with a Telegram bot the owner uses to edit the menu, prices and photos | TypeScript, Cloudflare Workers, D1, Telegram Bot API |
 | 🦇 | **[Lovesick Radio](https://github.com/kyrylo157/lovesick-radio)** · [live](https://lovesick-radio.vercel.app) | Music streaming website: 3 music sources in one player, playlists, smart search, animated mascots | Next.js 16, React 19, TypeScript, Tailwind, Zustand |
 | 👗 | **[FASHION boutique](https://github.com/kyrylo157/FASHION_boutique)** · [live](https://kyrylo157.github.io/FASHION_boutique/) | Mobile-first link-in-bio landing page for a clothing store | HTML, CSS, GitHub Pages |
+| 🎨 | **[FASHION boutique — 8 themes](https://github.com/kyrylo157/fashion-themes)** · [live](https://kyrylo157.github.io/fashion-themes/) | 8 design concepts of the same page: gothic, Y2K, quiet luxury, seasonal | HTML, CSS animations |
 
 <p>
   <a href="https://github.com/kyrylo157/dunai-menu"><img src="https://raw.githubusercontent.com/kyrylo157/dunai-menu/master/docs/mobile.png" height="320" alt="Dunai menu"></a>
